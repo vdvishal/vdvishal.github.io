@@ -264,12 +264,14 @@
   font-family: "proxima-nova", sans-serif;
   color: rgba(0, 0, 0, 0.7);
   font-size: 25px;
+  align-items: center;
 }
 
 .portfolio{
   flex: auto;
   width: 50%;
   margin: 10px;
+
 }
 
 img{
@@ -280,7 +282,7 @@ img{
 
 .contact-bar {
   font-family: "proxima-nova", sans-serif;
-  height: 350px;
+  height: 250px;
   width: 100vw;
   background-color: #37474f;
   text-align: center;
@@ -298,20 +300,21 @@ img{
 }
 
 .logo-align img {
-  width: 36px;
-  height: 36px;
+  width: 24px;
+  height: 24px;
 }
 
 @media screen and (max-width: 560px) {
 
   .part3 {
-    font-size: 1.75em;
+
   }
 
   .project-container {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  font-size: 19px;
   }
 
   img{
@@ -334,7 +337,6 @@ img{
 
   .contact-bar {
     height: 200px;
-    font-size: 10px;
   }
 }
 
