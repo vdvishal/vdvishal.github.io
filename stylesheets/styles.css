@@ -20,7 +20,7 @@ body {
   text-align: left;
   background-image: url("https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
   width: 100vw;
-  height: auto;
+  height: 75vh;
   opacity: 1;
   background-attachment: fixed;
   background-position: center;
@@ -144,7 +144,7 @@ body {
   text-align: center;
   background-image: url("https://images.pexels.com/photos/326424/pexels-photo-326424.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
   width: 100vw;
-  height: 75%;
+  height: 75vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
