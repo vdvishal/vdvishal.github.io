@@ -306,9 +306,14 @@ img{
 
 @media screen and (max-width: 560px) {
 
-  .part3 {
-
+  .animate3 {
+    display:none;
   }
+
+ .animate7 {
+    display:none;
+  }
+
 
   .project-container {
   flex-flow: column wrap;
