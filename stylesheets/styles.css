@@ -304,7 +304,7 @@ img{
   height: 24px;
 }
 
-@media screen and (max-width: 560px){
+@media screen and (max-width: 320px){
   .animate-main{
   display:none;
   }
