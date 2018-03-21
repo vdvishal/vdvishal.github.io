@@ -304,15 +304,13 @@ img{
   height: 24px;
 }
 
+@media screen and (max-width: 560px){
+  .animate-main{
+  display:none;
+  }
+}
+
 @media screen and (max-width: 560px) {
-
-  .animate3 {
-    display:none;
-  }
-
- .animate7 {
-    display:none;
-  }
 
 
   .project-container {
