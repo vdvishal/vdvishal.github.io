@@ -251,7 +251,7 @@
   font-family: "proxima-nova", sans-serif;
   color: rgba(0, 0, 0, 0.7);
   text-align: center;
-  font-size: 35px;
+  font-size: 20px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.5);
 }
@@ -260,18 +260,17 @@
   display: flex;
   width: 100vw;
   height: auto;
-  flex-flow: row wrap;
+  flex-flow: wrap;
   font-family: "proxima-nova", sans-serif;
   color: rgba(0, 0, 0, 0.7);
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .project-container div {
   flex: auto;
   margin: 10px;
-  /* border:2px solid black; */
-  width: 25%;
+  width: 30%;
 }
 
 .project-container div img {
@@ -317,10 +316,10 @@
     text-shadow: 4px 4px black;
   }
   .container {
-    font-size: 95%;
+    font-size: 100%;
   }
   .projects {
-    font-size: 98%;
+    font-size: 100%;
   }
 
   .project-container {
